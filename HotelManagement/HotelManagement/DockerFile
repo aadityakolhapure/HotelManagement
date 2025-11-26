@@ -1,0 +1,30 @@
+# -----------------------
+# BUILD STAGE
+# -----------------------
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+# Copy solution and project files
+COPY ./HotelManagement/HotelManagement/*.csproj ./  
+RUN dotnet restore
+
+# Copy the full source code
+COPY ./HotelManagement/HotelManagement/. ./
+
+# Publish the app
+RUN dotnet publish -c Release -o /app
+
+# -----------------------
+# RUNTIME STAGE
+# -----------------------
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+WORKDIR /app
+
+COPY --from=build /app . 
+
+# Render requires apps to listen on port 8080
+ENV ASPNETCORE_URLS=http://+:8080
+EXPOSE 8080
+
+# Run the API
+ENTRYPOINT ["dotnet", "HotelManagement.dll"]
