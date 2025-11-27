@@ -224,5 +224,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelManagement.Controllers.RoomController",
+    "Method": "GetRoomByNumber",
+    "RelativePath": "api/Room/RoomNumber/{roomNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roomNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

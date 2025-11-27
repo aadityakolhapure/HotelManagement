@@ -35,6 +35,18 @@ namespace HotelManagement.Controllers
             return Ok(room);
         }
 
+        [HttpGet("RoomNumber/{roomNumber}")]
+        public IActionResult GetRoomByNumber(string roomNumber)
+        {
+            var room = _context.Rooms.FirstOrDefault(r => r.RoomNumber == roomNumber);
+
+            if (room == null)
+                return NotFound("Room not found");
+
+            return Ok(room);
+        }
+
+
         [HttpPost("{id}")]
         public IActionResult EditRoom(int id, Room room)
         {

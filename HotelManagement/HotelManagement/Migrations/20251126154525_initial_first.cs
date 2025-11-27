@@ -5,7 +5,7 @@
 namespace HotelManagement.Migrations
 {
     /// <inheritdoc />
-    public partial class booking_table_updated : Migration
+    public partial class initial_first : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
