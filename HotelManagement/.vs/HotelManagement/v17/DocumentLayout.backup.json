@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +15,24 @@
       "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE0F9777-D469-4960-8AF6-A948458ADD06}|HotelManagement\\HotelManagement.csproj|c:\\users\\lenovo\\desktop\\amiciss_task\\hotelmanagement\\hotelmanagement\\migrations\\20251126154525_initial_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,16 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Customers.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Models\\Customers.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Models\\Customers.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Models\\Customers.cs",
               "RelativeToolTip": "HotelManagement\\Models\\Customers.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA0wAsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:20:45.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T08:20:45.673Z"
             },
             {
               "$type": "Document",
@@ -123,32 +122,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Models\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "HotelManagement\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAABBwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T10:57:41.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Program.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Program.cs",
               "RelativeToolTip": "HotelManagement\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T10:50:42.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T10:50:42.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\appsettings.json",
               "RelativeDocumentMoniker": "HotelManagement\\appsettings.json",
@@ -156,12 +154,11 @@
               "RelativeToolTip": "HotelManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-26T10:50:12.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T10:50:12.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "HotelManagement.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
               "RelativeDocumentMoniker": "HotelManagement\\HotelManagement.csproj",
@@ -173,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DockerFile",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\DockerFile",
               "RelativeDocumentMoniker": "HotelManagement\\DockerFile",
@@ -185,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Controllers\\BookingController.cs",
@@ -197,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Bookings.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Models\\Bookings.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Models\\Bookings.cs",
@@ -209,32 +206,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RoomController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Controllers\\RoomController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Controllers\\RoomController.cs",
               "RelativeToolTip": "HotelManagement\\Controllers\\RoomController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswCUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T08:48:01.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T08:48:01.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "HotelManagement\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwEIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T07:45:26.416Z"
+              "WhenOpened": "2025-11-26T07:45:26.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Amiciss_Task\\HotelManagement\\HotelManagement\\Models\\Room.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Models\\Room.cs",
@@ -242,8 +239,7 @@
               "RelativeToolTip": "HotelManagement\\Models\\Room.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T07:16:06.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T07:16:06.67Z"
             }
           ]
         }
