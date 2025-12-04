@@ -438,9 +438,6 @@ C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\obj\Debug\n
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\obj\Debug\net9.0\HotelManagement.pdb
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\obj\Debug\net9.0\HotelManagement.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\obj\Debug\net9.0\ref\HotelManagement.dll
-C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\Npgsql.dll
-C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
@@ -454,3 +451,5 @@ C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\n
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\System.Text.Json.dll
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\LENOVO\Desktop\Amiciss_Task\HotelManagement\HotelManagement\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
