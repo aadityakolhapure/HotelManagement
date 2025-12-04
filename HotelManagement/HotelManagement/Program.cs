@@ -26,7 +26,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddDbContext<HotelManagement.Models.ApplicationDbContext>(options =>
     options.UseMySql(
         builder.Configuration.GetConnectionString("DefaultConnection"),
-        new MySqlServerVersion(new Version(8, 0, 34))
+        new MySqlServerVersion(new Version(9, 0, 0))
     ));
 
 
